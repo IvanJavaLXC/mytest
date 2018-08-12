@@ -19,5 +19,6 @@ public class Demo01 {
 public static void main(String[] args) {
 	System.out.println("我是git");
 	System.out.println("我是新功能打游戏");
+	System.out.println("打完游戏要睡觉");
 }
 }
