@@ -21,5 +21,6 @@ public static void main(String[] args) {
 	System.out.println("听音乐" +
 			"我再来一首");
 	System.out.println("再来一首亲藏高原");
+	System.out.println("唱完歌吃饭去");
 }
 }
